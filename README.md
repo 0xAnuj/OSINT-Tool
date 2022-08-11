@@ -3,11 +3,9 @@
   <a href="https://github.com/0xAnuj/OSINT-Tool"><img src="https://i.ibb.co/Lhtc6L0/OSINT-Tool.png" width=300 height=300 alt="OSINT-Tool"></a>
   <br>
   OSINT-Tool
+  <h4 align="center">Whatever Comes on the internet, always stay there.</h4>
   <br>
 </h1>
-<h4 align="center">Whatever Comes on the internet, always stay there.</h4>
-
-<hr>
 
 This is a combined tool for Osint. It can be used in both GUI and CLI mode.
 
