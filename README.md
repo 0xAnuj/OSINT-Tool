@@ -1,4 +1,14 @@
-# Osint Tool
+<h1 align="center">
+  <br>
+  <a href="https://github.com/0xAnuj/OSINT-Tool"><img src="https://i.ibb.co/Lhtc6L0/OSINT-Tool.png" alt="OSINT-Tool"></a>
+  <br>
+  OSINT-Tool
+  <br>
+</h1>
+<h4 align="center">Whatever Comes on the internet, always stay there.</h4>
+
+<hr>
+
 This is a combined tool for Osint. It can be used in both GUI and CLI mode.
 
 ![1](https://user-images.githubusercontent.com/46415431/181070640-648f5e11-3720-4cbb-a1d0-94b4036c6e4b.jpg)
