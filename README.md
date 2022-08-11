@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/0xAnuj/OSINT-Tool"><img src="https://i.ibb.co/Lhtc6L0/OSINT-Tool.png" width=100 height=100 alt="OSINT-Tool"></a>
+  <a href="https://github.com/0xAnuj/OSINT-Tool"><img src="https://i.ibb.co/Lhtc6L0/OSINT-Tool.png" width=300 height=300 alt="OSINT-Tool"></a>
   <br>
   OSINT-Tool
   <br>
